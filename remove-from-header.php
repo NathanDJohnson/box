@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Atmoz Speed
+Plugin Name: Remove from Header
 Plugin URI: 
 Description: Removes a bunch of stuff from the header to speed up page loads.
 Author: Nathan Johnson
